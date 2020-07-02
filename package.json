@@ -60,6 +60,9 @@
     "typescript": "~3.8.3"
   },
   "nativescript": {
-    "id": "org.nativescript.ngsample"
+    "id": "org.nativescript.ngsample",
+    "tns-android": {
+      "version": "6.5.1"
+    }
   }
 }
