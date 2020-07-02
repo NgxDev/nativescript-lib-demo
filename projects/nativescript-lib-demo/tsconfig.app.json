@@ -17,8 +17,6 @@
   },
   "files": [
     "src/main.ts",
-    "src/polyfills.ts",
-    "projects/nativescript-lib-demo/src/main.ts",
-    "projects/nativescript-lib-demo/src/polyfills.ts"
+    "src/polyfills.ts"
   ]
 }
