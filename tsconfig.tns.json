@@ -8,6 +8,9 @@
       "@src/*": [
         "projects/nativescript-lib-demo/src/*.tns.ts",
         "projects/nativescript-lib-demo/src/*.ts"
+      ],
+      "@company/demo-lib": [
+        "projects/company/demo-lib/src/public-api"
       ]
     }
   },
