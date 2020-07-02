@@ -18,7 +18,8 @@
     "paths": {
       "@company/demo-lib": [
         "dist/company/demo-lib/company-demo-lib",
-        "dist/company/demo-lib"
+        "dist/company/demo-lib",
+        "projects/company/demo-lib/src/public-api"
       ]
     }
   },
