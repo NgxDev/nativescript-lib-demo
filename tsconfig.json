@@ -20,6 +20,13 @@
         "dist/company/demo-lib/company-demo-lib",
         "dist/company/demo-lib",
         "projects/company/demo-lib/src/public-api"
+      ],
+      "@src/*": [
+        "projects/nativescript-lib-demo/src/*.android.ts",
+        "projects/nativescript-lib-demo/src/*.ios.ts",
+        "projects/nativescript-lib-demo/src/*.tns.ts",
+        "projects/nativescript-lib-demo/src/*.web.ts",
+        "projects/nativescript-lib-demo/src/*"
       ]
     }
   },

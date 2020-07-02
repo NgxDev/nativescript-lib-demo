@@ -166,6 +166,7 @@
     }
   },
   "cli": {
+    "defaultCollection": "@nativescript/schematics",
     "analytics": false
   },
   "defaultProject": "nativescript-lib-demo"

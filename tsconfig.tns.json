@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "paths": {
+      "@src/*": [
+        "projects/nativescript-lib-demo/src/*.tns.ts",
+        "projects/nativescript-lib-demo/src/*.ts"
+      ]
+    }
+  },
+  "files": [
+    "projects/nativescript-lib-demo/src/main.tns.ts"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "appResourcesPath": "App_Resources",
+  "appPath": "projects/nativescript-lib-demo/src",
+  "nsext": ".tns",
+  "webext": "",
+  "shared": true,
+  "useLegacyWorkflow": false
+}
