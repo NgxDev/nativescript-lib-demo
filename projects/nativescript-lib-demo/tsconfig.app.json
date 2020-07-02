@@ -4,6 +4,11 @@
     "outDir": "../../out-tsc/app",
     "types": [],
     "paths": {
+      "@company/demo-lib": [
+        "dist/company/demo-lib/company-demo-lib",
+        "dist/company/demo-lib",
+        "projects/company/demo-lib/src/public-api"
+      ],
       "@src/*": [
         "projects/nativescript-lib-demo/src/*.web",
         "projects/nativescript-lib-demo/src/*"
